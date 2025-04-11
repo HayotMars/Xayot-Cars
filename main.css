@@ -1,0 +1,255 @@
+
+
+    .qw img {
+        width: 30px;
+    }
+
+    .qw {
+        font-size: 50px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    }
+
+    .q {
+        background-color: rgb(rgba(119, 0, 255, 0.258), green, blue);
+        padding: auto;
+        justify-content: space-evenly;
+        padding: auto;
+        justify-content: space-evenly;
+        text-align: center;
+    }
+
+    .e {
+        width: 390px;
+        height: 90px;
+        padding: auto;
+        justify-content: space-evenly;
+        margin: 0 auto;
+        background-color: rgb(0, 0, 96);
+        color: white;
+        border-radius: 30px;
+        border: 10px white solid;
+        padding: auto;
+        text-align: center;
+        font-size: 30px;
+
+    }
+   .e:active{
+    
+   }
+
+    .q .a text {
+        font-size: 300px;
+    }
+
+    .rt {
+        width: 50px;
+    }
+
+    .fg img {
+        width: 190px;
+
+        display: flex;
+        gap: 4000px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: 0 auto;
+
+    }
+
+    .dh {
+        font-size: 40PX;
+
+    }
+
+    /* .a>img {
+        max-width: 400px;
+        width: 100;
+    } */
+
+
+
+    .v {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .lk {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    .ty {
+        font-size: 30px;
+    }
+
+    .ty>img {
+        width: 80px;
+    }
+
+    .mers {
+        display: flex;
+        /* align-items: center; */
+        flex-wrap: wrap;
+        gap: 130px;
+    }
+
+    .b {
+        max-width: 250px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .a {
+        /* max-width: 500px; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+
+    .a img{
+        width: 400px;
+        
+    }
+    .op img{
+        width: 300px;
+    }
+    .hj{
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        background-color: rgb(0, 0, 159);
+        align-items: center;
+        color: white;
+        font-size: 30px;
+        border: 5px rgb(150, 150, 150) solid;
+        border-radius: 57px;
+    }
+    .rrty{
+        
+    }
+    .div{
+        justify-content: center;
+        text-align: center ;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .header{
+        padding: 45px 0px;
+        border-bottom: 2px solid #DEDBDB;
+    }
+    .container{
+        max-width: 1100px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .header__nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+    .select{
+        border: none;
+        background-color: transparent;
+        outline: none;
+        color: rgb(66, 66, 66);
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0%;
+    text-align: left;
+    }
+    .opion{
+        color: #424242;
+        font-family: Inter;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 44px;
+    
+    }
+    tr{
+        width: 300000px;
+    }
+    .id{
+        margin-left: 80px;
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        background-color: rgb(0, 0, 129);
+        color: white;
+        gap: 30px;
+        font-size: 16px;
+        border-radius: 13px;
+    }
+    body{
+    
+
+    }
+    .one{
+        justify-content: right 200px;
+        text-align: center;
+        height: 40px;
+        width: 250px;
+        color: white;
+        background-color: black;
+        font-size: 20px;
+    }
+.google{
+    
+    width: 100px;
+    height: 30px;
+
+
+}
+.on1{
+    text-align: center;
+    width: 170px;
+    display: flex;
+
+    
+
+}
+.div button{
+    width: 300px;
+    border-radius: 9px;
+    
+}
+.one1:hover{
+    background: linear-gradient(320deg, #eb92be, #ffef78, #63c9b4);
+    
+}
+.e:hover{
+    background-color: black;
+    color: #011996;
+} 
+.google{
+    text-align: center;
+}
+.qwe45ty6{
+    font-size: 20px;
+}
+.buttonop{
+    background-color: #011996;
+    width: 400px;
+    height: 38px;
+    border-radius: 12px;
+    justify-content: center;
+    margin-left: 920px;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+.pou2{
+    justify-content: center;
+}
